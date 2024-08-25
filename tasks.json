@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Buy groceries",
+        "description": "Milk, eggs, bread",
+        "status": "in progress"
+    },
+    {
+        "id": 2,
+        "title": "Sleep",
+        "description": "8 hours a day",
+        "status": "not done"
+    }
+]
